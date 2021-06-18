@@ -753,9 +753,9 @@ body {
 
 	/* main slider */
 	.main_slider_navigator {
-		/* display: none; */
-		height: 0;
-		display: flex;
+		display: none;
+/* 		height: 0; */
+/* 		display: flex; */
 		transition: all ease 0.2s;
 	}
 	.main_slider_info {
